@@ -8,7 +8,7 @@ PatikaStore Ödevi
 ## Installation
 
 ```
-git clone https://github.com/OsmanAlperCAM/patikastore
+git clone https://github.com/OsmanAlperCAM/patikastoreodev
 ```
 
 
